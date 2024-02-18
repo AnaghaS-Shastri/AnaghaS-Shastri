@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anagha S Shastri</h1>
 <h3 align="center">The Enthusiastic code maker!</h3>
 
+<img src = "https://images.hdqwalls.com/wallpapers/thumb/small-memory-lp.jpg" alt="image3" style="max-width:100%;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaghas-shastri&label=Profile%20views&color=0e75b6&style=flat" alt="anaghas-shastri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ansmahaa" target="blank"><img src="https://img.shields.io/twitter/follow/ansmahaa?logo=twitter&style=for-the-badge" alt="ansmahaa" /></a> </p>
